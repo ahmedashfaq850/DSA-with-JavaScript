@@ -38,11 +38,8 @@ class Queue {
 }
 
 
-
-
 const queueObj = new Queue();
-
-// Enqueue 
+ 
 queueObj.EnQueue('Ahmed')
 queueObj.EnQueue('Hassan')
 queueObj.EnQueue('Bilal')
