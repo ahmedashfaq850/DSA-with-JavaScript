@@ -6,3 +6,4 @@
 - Queue
 - LinkList
 - Sets
+- Hash Table
